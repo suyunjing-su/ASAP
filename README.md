@@ -3,8 +3,8 @@
 ## 概述
 
 本项目是自动部署argo节点到SAP Cloud Foundry平台，自动保活的方案
-视频教程：https://www.youtube.com/watch?v=uHvtVaeVCvE
-telegram交流反馈群组：https://t.me/eooceu
+- 视频教程：https://www.youtube.com/watch?v=uHvtVaeVCvE
+- telegram交流反馈群组：https://t.me/eooceu
 
 ### 前置要求
 * GitHub 账户：需要有一个 GitHub 账户来创建仓库和设置工作流
