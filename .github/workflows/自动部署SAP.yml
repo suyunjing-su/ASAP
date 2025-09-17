@@ -25,7 +25,7 @@ on:
         default: ''
 
 env:
-  DOCKER_IMAGE: ghcr.io/eooce/nodejs:main
+  DOCKER_IMAGE: ${{ secrets.IMAGE }}
   MEMORY: 512M
 
 jobs:
